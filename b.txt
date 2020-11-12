@@ -1,3 +1,5 @@
 这事master分支的文件
 
 我在dev分支修改了b文件
+
+我master分支修改了b文件
